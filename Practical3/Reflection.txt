@@ -1,0 +1,1 @@
+This practical helped me learn Git branch and merge. I found git revert a bit challenging at first.
