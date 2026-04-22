@@ -1,0 +1,6 @@
+Research Question: How have DALYs rates changed over time in the United Kingdom, and how do they compare with trends in China from 1990 to 2019?
+
+Code line number: Lines 73–87 (UK trend plot) and Lines 90–105 (China vs UK comparison plot)
+
+Results and discussion:
+The United Kingdom shows a clear and steady downward trend in DALYs rates over the 30-year period, indicating continuous improvement in population health and reduced disease burden. When compared with China, both countries experienced declining DALYs rates, but China started with a much higher rate in 1990. The gap between the two countries has narrowed significantly over time, reflecting major improvements in public health and healthcare in China. The UK maintained a consistently lower DALYs rate throughout the period.
